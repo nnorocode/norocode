@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396">
+  <defs>
+    <radialGradient id="glow" cx="83%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#1767f2" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#030405" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1584" height="396" fill="#030405"/>
+  <rect width="1584" height="396" fill="url(#glow)"/>
+  <path d="M42 42h1500M42 354h1500" stroke="#aaceff" stroke-opacity=".18"/>
+  <text x="84" y="160" fill="#f2f7ff" font-family="Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="8">NORO TECH</text>
+  <text x="84" y="225" fill="#c7e7ff" font-family="Arial, sans-serif" font-size="25" letter-spacing="2">PRODUTOS DIGITAIS E SOLUÇÕES TECNOLÓGICAS</text>
+  <text x="84" y="286" fill="#99a9bb" font-family="Arial, sans-serif" font-size="22">Apps, jogos, SaaS e soluções desenvolvidos com engenharia e propósito.</text>
+  <circle cx="1370" cy="198" r="112" fill="none" stroke="#4e9eff" stroke-opacity=".32"/>
+  <circle cx="1370" cy="198" r="72" fill="none" stroke="#58e5ff" stroke-opacity=".24"/>
+</svg>

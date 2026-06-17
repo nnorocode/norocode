@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs>
+    <radialGradient id="glow" cx="85%" cy="15%" r="78%">
+      <stop offset="0" stop-color="#1767f2" stop-opacity=".5"/>
+      <stop offset=".55" stop-color="#080b10" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#030405" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#1767f2"/>
+      <stop offset="1" stop-color="#58e5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="#030405"/>
+  <rect width="1080" height="1080" fill="url(#glow)"/>
+  <path d="M68 78h944M68 1002h944" stroke="#aaceff" stroke-opacity=".18"/>
+  <path d="M68 128h96" stroke="url(#line)" stroke-width="4"/>
+  <text x="68" y="195" fill="#c7e7ff" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="6">NORO TECH</text>
+  <text x="68" y="410" fill="#f2f7ff" font-family="Arial, sans-serif" font-size="92" font-weight="700">
+    <tspan x="68">TÍTULO DO</tspan>
+    <tspan x="68" dy="105">CONTEÚDO</tspan>
+  </text>
+  <text x="68" y="680" fill="#99a9bb" font-family="Arial, sans-serif" font-size="34">
+    <tspan x="68">Use este espaço para uma frase curta</tspan>
+    <tspan x="68" dy="52">que complete a mensagem principal.</tspan>
+  </text>
+  <circle cx="886" cy="866" r="132" fill="none" stroke="#4e9eff" stroke-opacity=".25"/>
+  <circle cx="886" cy="866" r="92" fill="none" stroke="#58e5ff" stroke-opacity=".16"/>
+  <text x="68" y="963" fill="#647489" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">PRODUTOS DIGITAIS E SOLUÇÕES TECNOLÓGICAS</text>
+</svg>

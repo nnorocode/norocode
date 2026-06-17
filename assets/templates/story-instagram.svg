@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="35%" r="80%">
+      <stop offset="0" stop-color="#1767f2" stop-opacity=".54"/>
+      <stop offset=".6" stop-color="#080b10" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#030405" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="#030405"/>
+  <rect width="1080" height="1920" fill="url(#glow)"/>
+  <path d="M68 88h944M68 1815h944" stroke="#aaceff" stroke-opacity=".18"/>
+  <text x="68" y="165" fill="#c7e7ff" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="7">NORO TECH</text>
+  <text x="68" y="655" fill="#f2f7ff" font-family="Arial, sans-serif" font-size="104" font-weight="700">
+    <tspan x="68">TÍTULO</tspan>
+    <tspan x="68" dy="118">DO STORY</tspan>
+  </text>
+  <text x="68" y="985" fill="#99a9bb" font-family="Arial, sans-serif" font-size="38">
+    <tspan x="68">Mensagem curta para</tspan>
+    <tspan x="68" dy="58">bastidores, perguntas</tspan>
+    <tspan x="68" dy="58">ou novidades.</tspan>
+  </text>
+  <rect x="68" y="1475" width="518" height="102" fill="none" stroke="#4e9eff"/>
+  <text x="104" y="1540" fill="#c7e7ff" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="2">CHAMADA PARA AÇÃO  →</text>
+</svg>
